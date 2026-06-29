@@ -2,17 +2,17 @@
 
 <h1>Hi, I'm Mani Teja Lakanavarapu 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Kafka+%7C+AWS;Building+scalable+enterprise+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis;Azure+%7C+AWS+%7C+React;Building+scalable+enterprise+applications" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=lakanavarapu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AWS-blue" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20Redis%20%7C%20Azure-blue" alt="Focus" />
 </p>
 
-<h3>Java Full Stack Developer • Spring Boot • React • Kafka • AWS</h3>
+<h3>Full Stack Developer • Spring Boot • Apache Kafka • Redis • Azure • React</h3>
 
 <p>
-I build scalable full-stack applications using Java, Spring Boot, React, Kafka, Python, SQL, and AWS.
+I build scalable enterprise applications using Java, Spring Boot, Apache Kafka, Redis, React, TypeScript, Python, SQL, Azure, AWS, Docker, Kubernetes, and CI/CD tools.
 </p>
 
 </div>
@@ -21,14 +21,13 @@ I build scalable full-stack applications using Java, Spring Boot, React, Kafka, 
 
 ## 💻 About Me
 
-* 💼 Java Full Stack Developer with around 4 years of experience in designing, developing, testing, and deploying enterprise applications
-* ☕ Strong experience with Java 8/11/17, Spring Boot, REST APIs, Microservices, Spring MVC, Spring Data JPA, Spring Security, and Hibernate
-* ⚛️ Frontend experience with React.js, TypeScript, Redux, React Hooks, Axios, HTML5, CSS3, Bootstrap, and Material UI
-* 🐍 Experienced in Python scripting, PySpark, ETL workflows, automation, backend processing, and reporting
-* 🔄 Hands-on experience with Apache Kafka for asynchronous messaging and event-driven processing
-* 🗄️ Worked with PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, and Redis
-* ☁️ Familiar with AWS services including EC2, S3, Lambda, RDS, EKS, EMR, CloudWatch, SQS, SNS, and API Gateway
-* 🚀 Comfortable with Docker, Kubernetes, Jenkins, GitHub Actions, Maven, Gradle, Git, Agile/Scrum, debugging, and production support
+* 💼 Full Stack Developer with 5+ years of experience configuring, supporting, scaling, and developing enterprise, packaged, and SaaS applications
+* ☕ Strong expertise in Java 8/11/17, Spring Boot, REST APIs, Microservices, Spring MVC, Spring Data JPA, Spring Security, Hibernate, and JPA
+* 🔄 Hands-on experience with Apache Kafka producers/consumers, event-driven architectures, real-time messaging, asynchronous data ingestion, and inter-service communication
+* ⚡ Experienced with Redis for caching, session management, high-performance data retrieval, and production application optimization
+* ⚛️ Frontend development experience with React.js, TypeScript, Redux, React Hooks, Axios, Material UI, Bootstrap, HTML5, and CSS3
+* ☁️ Cloud and DevOps experience across Azure, AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Groovy scripting, Maven, Gradle, and CI/CD pipelines
+* 🧩 Strong background in API design, system integration, performance optimization, Agile/Scrum, production support, code reviews, and mentoring junior developers
 
 ---
 
@@ -45,12 +44,13 @@ I build scalable full-stack applications using Java, Spring Boot, React, Kafka, 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Backend
+### Backend Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white" />
@@ -69,21 +69,23 @@ I build scalable full-stack applications using Java, Spring Boot, React, Kafka, 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Databases & Messaging
+### Databases, Caching & Messaging
 
 <p>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
 </p>
 
 ### Cloud, DevOps & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -91,58 +93,82 @@ I build scalable full-stack applications using Java, Spring Boot, React, Kafka, 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+</p>
+
+### Testing & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Log4j2-CC0000?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Professional Experience
 
-### Centene Corporation — Java Full Stack Developer
+### Centene Corporation — Full Stack Developer
 
-**Nov 2024 – Present**
+**Apr 2024 – Present**
 
-* Developed and maintained Java 17 Spring Boot microservices and REST APIs for healthcare applications
-* Built React.js and TypeScript frontend applications integrated with Spring Boot REST APIs
-* Worked with Python, PySpark, Kafka, PostgreSQL, Oracle, MongoDB, Redis, AWS, Docker, Kubernetes, Jenkins, and GitHub Actions
+* Configure and support SaaS applications for healthcare claims processing, member management, and billing analytics
+* Built and maintained 15+ Java 17 Spring Boot microservices and REST APIs for data integration and business workflows
+* Designed and deployed Kafka producers and consumers for real-time event streaming, asynchronous data ingestion, and inter-service communication
+* Implemented Redis caching strategies for frequently accessed healthcare data, reducing API response time by 40%
+* Deployed cloud-ready applications using Azure, Docker, Kubernetes, Jenkins, GitHub Actions, PostgreSQL, Oracle, and React.js
+* Mentored junior developers, conducted code reviews, and collaborated with cross-functional engineering, QA, frontend, and data teams
 
-### Exterran Corporation — Java Full Stack Developer
+### Exterran Corporation — Full Stack Developer
 
 **Aug 2022 – Mar 2023**
 
-* Developed Java 11 Spring Boot microservices and REST APIs for industrial IoT and operational monitoring applications
-* Built React.js dashboards and Kafka-based messaging solutions for real-time event processing
-* Worked with PostgreSQL, Oracle, MongoDB, Redis, AWS, Jenkins, Docker, and Kubernetes
+* Configured and scaled SaaS applications for industrial IoT telemetry data processing and operational monitoring
+* Developed 10+ Java 11 Spring Boot REST APIs and microservices for sensor data ingestion and reporting dashboards
+* Implemented Kafka-based real-time event processing pipelines, reducing telemetry latency by 50%
+* Used Redis for caching time-series sensor data and session management, improving dashboard load times by 35%
+* Worked with Azure, Jenkins, Groovy, Docker, Kubernetes, PostgreSQL, and React.js in Agile delivery environments
 
-### TVS Motors — Java Full Stack Developer
+### TVS Motors — Full Stack Developer
 
-**Mar 2021 – Jul 2022**
+**Jun 2020 – Jul 2022**
 
-* Developed Java Spring Boot applications and REST APIs for dealer management and automotive business workflows
-* Built frontend modules using React.js, TypeScript, Redux, React Hooks, and Material UI
-* Worked with Kafka, Oracle, MySQL, MongoDB, Redis, AWS, Jenkins, Docker, and Kubernetes
+* Configured and supported packaged applications for dealer management and automotive business workflows
+* Developed Spring Boot REST APIs and microservices for vehicle data processing, reporting, and system integration
+* Used Kafka for asynchronous messaging between distributed services and Redis for application caching and session storage
+* Built CI/CD pipelines using Jenkins and GitHub Actions and supported production deployments
+* Worked with Java 8/11, Spring Boot, Kafka, Redis, AWS, Jenkins, Docker, Kubernetes, Oracle, MySQL, and React.js
 
 ---
 
 ## 📌 Featured Areas
 
-### 🔹 Java Backend Development
+### 🔹 Backend Engineering
 
-Building scalable backend applications using Java, Spring Boot, REST APIs, Microservices, Spring Data JPA, Spring Security, Hibernate, Kafka, and SQL databases.
+Building scalable backend applications using Java, Spring Boot, REST APIs, Microservices, Spring Data JPA, Spring Security, Hibernate, Apache Kafka, Redis, and SQL/NoSQL databases.
+
+### 🔹 Event-Driven Systems
+
+Designing Kafka-based event streaming solutions with producers, consumers, asynchronous processing, inter-service communication, and real-time data ingestion.
 
 ### 🔹 Full Stack Development
 
-Developing frontend applications using React.js, TypeScript, Redux, Axios, Material UI, Bootstrap, HTML5, and CSS3 integrated with backend REST services.
+Developing React.js and TypeScript frontend applications using Redux, Axios, Material UI, Bootstrap, HTML5, and CSS3 integrated with Spring Boot REST APIs.
 
 ### 🔹 Cloud & DevOps
 
-Working with AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Maven, Gradle, CI/CD pipelines, deployment workflows, monitoring, and production support.
+Working with Azure, AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Groovy, Maven, Gradle, CI/CD pipelines, deployment workflows, monitoring, and production support.
 
-### 🔹 Data Processing & Automation
+### 🔹 Performance & Integration
 
-Using Python, PySpark, ETL workflows, automation scripts, reporting, and batch processing for backend and data transformation tasks.
+Improving application stability and performance through Redis caching, API optimization, Spark job tuning, system integration, code reviews, monitoring, and Agile collaboration.
 
 ---
 
@@ -168,21 +194,22 @@ Using Python, PySpark, ETL workflows, automation scripts, reporting, and batch p
 
 ## 🎓 Education
 
-* **Master of Science in Computer Science – Information Technology**
-  Trine University, Angola, Indiana | 2024
+* **Master of Science in Computer Science – Information Technology**  
+  Trine University, Angola, Indiana | 2024 | GPA: 3.89/4.0
 
-* **Bachelor of Technology in Computer Science**
-  VelTech Institute of Technology, Chennai, India | 2021
+* **Bachelor of Technology in Computer Science**  
+  VelTech Institute of Technology, Chennai, India | 2021 | GPA: 7.47/10
 
 ---
 
 ## 🎯 Current Focus
 
-* Building scalable Java Spring Boot microservices
-* Improving system design and backend architecture
-* Strengthening cloud deployment and DevOps skills
-* Working with event-driven systems using Kafka
-* Enhancing React.js frontend development skills
+* Building scalable Java Spring Boot microservices and REST APIs
+* Strengthening event-driven architecture using Apache Kafka
+* Improving performance using Redis caching and API optimization
+* Deploying cloud-ready applications using Azure, AWS, Docker, and Kubernetes
+* Enhancing React.js and TypeScript frontend development skills
+* Improving DevOps automation with Jenkins, GitHub Actions, Groovy, Maven, and Gradle
 
 ---
 
@@ -200,10 +227,13 @@ Using Python, PySpark, ETL workflows, automation scripts, reporting, and batch p
   </a>
 </p>
 
+---
+
 <div align="center">
 
 ### Thanks for visiting my profile ✨
 
-**Building reliable backend systems, scalable full-stack apps, and cloud-ready solutions.**
+**Building reliable backend systems, scalable full-stack apps, event-driven platforms, and cloud-ready enterprise solutions.**
 
 </div>
+
