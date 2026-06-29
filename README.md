@@ -1,5 +1,5 @@
 <div align="center">
-Hi, I'm Lakshmi Sowmya 👋
+Hi, I'm maniteja lakanavarapu 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Security+Engineer+%7C+Full-Stack+Developer;Open+Source+Contributor+%7C+AI%2FML+Graduate;Building+secure%2C+scalable+and+useful+software" alt="Typing SVG" />
 <p>
   <img src="https://komarev.com/ghpvc/?username=lakanavarapu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
